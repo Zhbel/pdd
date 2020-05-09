@@ -52,7 +52,7 @@ https://zhbel.github.io/pdd/testImg/b2_7.jpg
 2.На правом.
 3.На обоих.
 nil
-4
+3
 https://zhbel.github.io/pdd/testImg/b2_8.jpg
 Можно ли Вам выполнить разворот в этом месте?
 1.Можно.
